@@ -5,9 +5,9 @@ Repository này lưu trữ tài liệu, kịch bản triển khai và báo cáo 
 ---
 
 ## 👥 Thành viên Nhóm 8
-* **Lê Minh Tấn** – MSSV: 23521398[cite: 1]
-* **Nguyễn Quang Thắng** – MSSV: 23521425[cite: 1]
-* **Trần Viết Thắng** – MSSV: 23521433[cite: 1]
+* **Lê Minh Tấn** – MSSV: 23521398
+* **Nguyễn Quang Thắng** – MSSV: 23521425
+* **Trần Viết Thắng** – MSSV: 23521433
 
 ---
 
