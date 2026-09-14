@@ -36,12 +36,3 @@ Dưới đây là các video demo quá trình triển khai, tấn công và ghi 
 
 ---
 
-## 🚀 Hướng dẫn nhanh (Quick Start)
-*(Bạn có thể bổ sung các bước cài đặt hoặc câu lệnh cấu hình Docker/T-Pot tại đây nếu muốn chia sẻ mã nguồn hoặc script cấu hình cụ thể).*
-
-```bash
-# Clone repository này về máy
-git clone [https://github.com/your-username/t-pot-honeypot-deployment-analysis.git](https://github.com/your-username/t-pot-honeypot-deployment-analysis.git)
-
-# Truy cập vào thư mục dự án
-cd t-pot-honeypot-deployment-analysis
